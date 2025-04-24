@@ -1,0 +1,12 @@
+{
+  "name": "adbros/exam",
+  "description": "Simple import exam",
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Adbros\\Exam\\": "src/"
+    }
+  }
+}
