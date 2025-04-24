@@ -1,4 +1,17 @@
-# Exam Import System
+# This was the original task - import exam
+
+Your task in this simple exam is to import a CSV file containing users, using an existing model.
+
+## Requirements
+* You should not modify model files.
+* You should not use any external libraries.
+* Consider e-mail as a unique column.
+* Consider that the application will be extended in the future with additional imports (such as vouchers) from various file types (such as json).
+* When you are done, create a new branch in this repository and send a pull request.
+
+
+
+# Exam Import System solution
 
 This project demonstrates a flexible, clean and extensible architecture for importing data (e.g., Users) from various formats such as CSV, JSON or XML.
 
@@ -75,16 +88,3 @@ With normalized keys and optionally passed field map, the same `GenericEntityMap
 ---
 
 Made with ❤️ by Adam
-
-
-# XXXXX import exam
-
-Your task in this simple exam is to import a CSV file containing users, using an existing model.
-
-## Requirements
-* You should not modify model files.
-* You should not use any external libraries.
-* Consider e-mail as a unique column.
-* Consider that the application will be extended in the future with additional imports (such as vouchers) from various file types (such as json).
-* When you are done, create a new branch in this repository and send a pull request.
-
